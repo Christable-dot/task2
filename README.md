@@ -83,9 +83,7 @@ http://localhost:8080/h2-console
 
 ## 📸 Screenshots
 
--![put](https://github.com/user-attachments/assets/c66c076a-3236-44a8-a586-620057826c3f)
-![post](https://github.com/user-attachments/assets/3ff00d43-402b-423c-9e7e-f1570a21a147)
-![get-all](https://github.com/user-attachments/assets/ada0d031-ab43-484a-908f-0388b6fd2ed1)
+
 ![get](https://github.com/user-attachments/assets/0e995323-068c-457b-8035-d3381f26a52c)
 ![delete](https://github.com/user-attachments/assets/15ce1df1-fe13-4d81-b06c-18a16029d7f3)
 ![database](https://github.com/user-attachments/assets/e98f9e9f-6177-41bb-9f65-d945f9b0e177)
@@ -93,11 +91,3 @@ http://localhost:8080/h2-console
 
 
 
-
-## 📄 License
-
-This project is licensed under the MIT License. You are free to use, modify, and distribute this code as needed.
-
----
-
-Happy Coding! 🎉
